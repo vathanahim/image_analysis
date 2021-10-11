@@ -1,0 +1,816 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.11)  18 SEP 2021 15:32
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.tex
+(/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count187
+\mult@box=\box47
+\multicol@leftmargin=\dimen139
+\c@unbalance=\count188
+\c@collectmore=\count189
+\doublecol@number=\count190
+\multicoltolerance=\count191
+\multicolpretolerance=\count192
+\full@width=\dimen140
+\page@free=\dimen141
+\premulticols=\dimen142
+\postmulticols=\dimen143
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box48
+\last@line=\box49
+\maxbalancingoverflow=\dimen144
+\mult@rightbox=\box50
+\mult@grightbox=\box51
+\mult@gfirstbox=\box52
+\mult@firstbox=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\c@minrows=\count193
+\c@columnbadness=\count194
+\c@finalcolumnbadness=\count195
+\last@try=\dimen145
+\multicolovershoot=\dimen146
+\multicolundershoot=\dimen147
+\mult@nat@firstbox=\box91
+\colbreak@box=\box92
+\mc@col@check@num=\count196
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen150
+\Hy@linkcounter=\count197
+\Hy@pagecounter=\count198
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel languages
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count199
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count266
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen151
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count267
+\Field@Width=\dimen152
+\Fld@charsize=\dimen153
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
+)
+\Hy@abspage=\count268
+\c@Item=\count269
+\c@Hfootnote=\count270
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+with kernel methods
+)
+\Fld@listcount=\count271
+\c@bookmark@seq@number=\count272
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip51
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 11.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen154
+\captionmargin@=\dimen155
+\captionwidth=\dimen156
+\caption@tempdima=\dimen157
+\caption@indent=\dimen158
+\caption@parindent=\dimen159
+\caption@hangindent=\dimen160
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count273
+\c@continuedfloat=\count274
+Package caption Info: hyperref package is loaded.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count275
+\lst@gtempboxa=\box93
+\lst@token=\toks16
+\lst@length=\count276
+\lst@currlwidth=\dimen161
+\lst@column=\count277
+\lst@pos=\count278
+\lst@lostspace=\dimen162
+\lst@width=\dimen163
+\lst@newlines=\count279
+\lst@lineno=\count280
+\lst@maxwidth=\dimen164
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count281
+\lst@skipnumbers=\count282
+\lst@framebox=\box94
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+\l__pdf_internal_box=\box95
+) (/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.aux)
+\openout1 = `Assignment1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+ (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen165
+\scratchbox=\box96
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen166
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks18
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 24.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count290
+)
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
+ (/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.out) (/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.out)
+\@outlinefile=\write3
+\openout3 = `Assignment1.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count291
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 26.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 42.
+See the caption package documentation for explanation.
+
+<../screenshots/environment.png, id=120, 1441.385pt x 830.10126pt>
+File: ../screenshots/environment.png Graphic file (type png)
+<use ../screenshots/environment.png>
+Package pdftex.def Info: ../screenshots/environment.png  used on input line 43.
+(pdftex.def)             Requested size: 144.14694pt x 83.01498pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 47.
+See the caption package documentation for explanation.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 61.
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 1 might be wrong on input line 63.
+
+[1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/environment.png>]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 67.
+See the caption package documentation for explanation.
+
+<../screenshots/image_folder.png, id=140, 477.785pt x 432.61626pt>
+File: ../screenshots/image_folder.png Graphic file (type png)
+<use ../screenshots/image_folder.png>
+Package pdftex.def Info: ../screenshots/image_folder.png  used on input line 68.
+(pdftex.def)             Requested size: 143.3366pt x 129.78587pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 71.
+See the caption package documentation for explanation.
+
+<../data/spanish_pear_001.jpg, id=141, 411.136pt x 308.352pt>
+File: ../data/spanish_pear_001.jpg Graphic file (type jpg)
+<use ../data/spanish_pear_001.jpg>
+Package pdftex.def Info: ../data/spanish_pear_001.jpg  used on input line 72.
+(pdftex.def)             Requested size: 123.34175pt x 92.5063pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 75.
+See the caption package documentation for explanation.
+
+<../data/fuji_apple_001.jpg, id=142, 411.136pt x 308.352pt>
+File: ../data/fuji_apple_001.jpg Graphic file (type jpg)
+<use ../data/fuji_apple_001.jpg>
+Package pdftex.def Info: ../data/fuji_apple_001.jpg  used on input line 76.
+(pdftex.def)             Requested size: 123.34175pt x 92.5063pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 79.
+See the caption package documentation for explanation.
+
+<../data/watermelon_001.jpg, id=143, 411.136pt x 308.352pt>
+File: ../data/watermelon_001.jpg Graphic file (type jpg)
+<use ../data/watermelon_001.jpg>
+Package pdftex.def Info: ../data/watermelon_001.jpg  used on input line 80.
+(pdftex.def)             Requested size: 123.34175pt x 92.5063pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 89.
+See the caption package documentation for explanation.
+
+<../screenshots/RGB_1.png, id=144, 374.39874pt x 824.07875pt>
+File: ../screenshots/RGB_1.png Graphic file (type png)
+<use ../screenshots/RGB_1.png>
+Package pdftex.def Info: ../screenshots/RGB_1.png  used on input line 90.
+(pdftex.def)             Requested size: 112.32048pt x 247.22552pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 93.
+See the caption package documentation for explanation.
+
+[2 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/image_folder.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../data/spanish_pear_001.jpg> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../data/fuji_apple_001.jpg> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../data/watermelon_001.jpg>]
+<../screenshots/RGB_2.png, id=156, 356.33125pt x 812.03375pt>
+File: ../screenshots/RGB_2.png Graphic file (type png)
+<use ../screenshots/RGB_2.png>
+Package pdftex.def Info: ../screenshots/RGB_2.png  used on input line 94.
+(pdftex.def)             Requested size: 106.90019pt x 243.612pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 97.
+See the caption package documentation for explanation.
+
+<../screenshots/RGB_3.png, id=157, 352.31625pt x 818.05624pt>
+File: ../screenshots/RGB_3.png Graphic file (type png)
+<use ../screenshots/RGB_3.png>
+Package pdftex.def Info: ../screenshots/RGB_3.png  used on input line 98.
+(pdftex.def)             Requested size: 105.69568pt x 245.41876pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 101.
+See the caption package documentation for explanation.
+
+<../screenshots/gray.png, id=158, 343.2825pt x 813.0375pt>
+File: ../screenshots/gray.png Graphic file (type png)
+<use ../screenshots/gray.png>
+Package pdftex.def Info: ../screenshots/gray.png  used on input line 102.
+(pdftex.def)             Requested size: 102.98553pt x 243.91313pt.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) [3 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/RGB_1.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/RGB_2.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/RGB_3.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/gray.png>]
+Overfull \hbox (9.0036pt too wide) in paragraph at lines 117--118
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (15.00366pt too wide) in paragraph at lines 118--119
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (33.00385pt too wide) in paragraph at lines 119--121
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (33.00385pt too wide) in paragraph at lines 125--127
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 144.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 144.
+ [4]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 153.
+See the caption package documentation for explanation.
+
+<../screenshots/gray_resized.png, id=213, 349.305pt x 814.04124pt>
+File: ../screenshots/gray_resized.png Graphic file (type png)
+<use ../screenshots/gray_resized.png>
+Package pdftex.def Info: ../screenshots/gray_resized.png  used on input line 154.
+(pdftex.def)             Requested size: 87.32603pt x 203.50981pt.
+
+Overfull \hbox (63.00415pt too wide) in paragraph at lines 166--167
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 174.
+See the caption package documentation for explanation.
+
+<../screenshots/feature_vector88.png, id=214, 806.01125pt x 313.17pt>
+File: ../screenshots/feature_vector88.png Graphic file (type png)
+<use ../screenshots/feature_vector88.png>
+Package pdftex.def Info: ../screenshots/feature_vector88.png  used on input line 174.
+(pdftex.def)             Requested size: 161.19939pt x 62.63287pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 177.
+See the caption package documentation for explanation.
+
+<../screenshots/88csv.png, id=215, 829.0975pt x 180.675pt>
+File: ../screenshots/88csv.png Graphic file (type png)
+<use ../screenshots/88csv.png>
+Package pdftex.def Info: ../screenshots/88csv.png  used on input line 177.
+(pdftex.def)             Requested size: 207.27386pt x 45.16862pt.
+
+Overfull \hbox (39.77386pt too wide) in paragraph at lines 177--178
+ [][] 
+ []
+
+[5 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/gray_resized.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/feature_vector88.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/88csv.png>]
+Overfull \hbox (81.00433pt too wide) in paragraph at lines 183--184
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (207.00562pt too wide) in paragraph at lines 187--188
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 209.
+See the caption package documentation for explanation.
+
+<../screenshots/sliding88.png, id=236, 818.05624pt x 304.13625pt>
+File: ../screenshots/sliding88.png Graphic file (type png)
+<use ../screenshots/sliding88.png>
+Package pdftex.def Info: ../screenshots/sliding88.png  used on input line 209.
+(pdftex.def)             Requested size: 163.60834pt x 60.82616pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 212.
+See the caption package documentation for explanation.
+
+<../screenshots/sliding88csv.png, id=237, 925.4575pt x 179.67125pt>
+File: ../screenshots/sliding88csv.png Graphic file (type png)
+<use ../screenshots/sliding88csv.png>
+Package pdftex.def Info: ../screenshots/sliding88csv.png  used on input line 212.
+(pdftex.def)             Requested size: 231.3638pt x 44.9177pt.
+
+Overfull \hbox (63.8638pt too wide) in paragraph at lines 212--213
+ [][] 
+ []
+
+[6 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/sliding88.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/sliding88csv.png>]
+Overfull \hbox (399.00757pt too wide) in paragraph at lines 218--219
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (33.00385pt too wide) in paragraph at lines 219--222
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (261.00616pt too wide) in paragraph at lines 222--223
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (93.00446pt too wide) in paragraph at lines 223--224
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 268.
+See the caption package documentation for explanation.
+
+<../screenshots/img_0_sum.png, id=265, 323.2075pt x 326.21875pt>
+File: ../screenshots/img_0_sum.png Graphic file (type png)
+<use ../screenshots/img_0_sum.png>
+Package pdftex.def Info: ../screenshots/img_0_sum.png  used on input line 268.
+(pdftex.def)             Requested size: 64.64035pt x 65.24258pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 271.
+See the caption package documentation for explanation.
+
+<../screenshots/img_1_sum.png, id=266, 324.21124pt x 341.275pt>
+File: ../screenshots/img_1_sum.png Graphic file (type png)
+<use ../screenshots/img_1_sum.png>
+Package pdftex.def Info: ../screenshots/img_1_sum.png  used on input line 271.
+(pdftex.def)             Requested size: 64.8411pt x 68.25378pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 274.
+See the caption package documentation for explanation.
+
+<../screenshots/img_2_sum.png, id=267, 321.2pt x 333.245pt>
+File: ../screenshots/img_2_sum.png Graphic file (type png)
+<use ../screenshots/img_2_sum.png>
+Package pdftex.def Info: ../screenshots/img_2_sum.png  used on input line 274.
+(pdftex.def)             Requested size: 64.23886pt x 66.64781pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 277.
+See the caption package documentation for explanation.
+
+[7 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/img_0_sum.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/img_1_sum.png>]
+<../screenshots/histogram.png, id=285, 493.845pt x 779.91376pt>
+File: ../screenshots/histogram.png Graphic file (type png)
+<use ../screenshots/histogram.png>
+Package pdftex.def Info: ../screenshots/histogram.png  used on input line 278.
+(pdftex.def)             Requested size: 148.15463pt x 233.97594pt.
+
+Overfull \hbox (507.00867pt too wide) in paragraph at lines 287--288
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (63.00415pt too wide) in paragraph at lines 295--296
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (219.00574pt too wide) in paragraph at lines 301--302
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[8 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/img_2_sum.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/histogram.png>]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 311.
+See the caption package documentation for explanation.
+
+<../screenshots/merge01.png, id=315, 796.9775pt x 185.69376pt>
+File: ../screenshots/merge01.png Graphic file (type png)
+<use ../screenshots/merge01.png>
+Package pdftex.def Info: ../screenshots/merge01.png  used on input line 312.
+(pdftex.def)             Requested size: 159.39267pt x 37.13809pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 315.
+See the caption package documentation for explanation.
+
+<../screenshots/merge012.png, id=316, 854.19125pt x 317.185pt>
+File: ../screenshots/merge012.png Graphic file (type png)
+<use ../screenshots/merge012.png>
+Package pdftex.def Info: ../screenshots/merge012.png  used on input line 315.
+(pdftex.def)             Requested size: 213.54729pt x 79.29605pt.
+
+Overfull \hbox (46.04729pt too wide) in paragraph at lines 315--316
+ [][] 
+ []
+
+
+Overfull \hbox (93.00446pt too wide) in paragraph at lines 320--321
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (93.00446pt too wide) in paragraph at lines 322--323
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (93.00446pt too wide) in paragraph at lines 324--325
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (3.00354pt too wide) in paragraph at lines 329--330
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (39.0039pt too wide) in paragraph at lines 330--331
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (33.00385pt too wide) in paragraph at lines 331--332
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (45.00397pt too wide) in paragraph at lines 332--333
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+[9 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/merge01.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/merge012.png>]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 375.
+See the caption package documentation for explanation.
+
+<../screenshots/2d01.png, id=339, 974.64125pt x 471.7625pt>
+File: ../screenshots/2d01.png Graphic file (type png)
+<use ../screenshots/2d01.png>
+Package pdftex.def Info: ../screenshots/2d01.png  used on input line 376.
+(pdftex.def)             Requested size: 194.92479pt x 94.35081pt.
+
+Overfull \hbox (27.42479pt too wide) in paragraph at lines 376--377
+ [] 
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 379.
+See the caption package documentation for explanation.
+
+<../screenshots/3d01.png, id=340, 748.7975pt x 441.65pt>
+File: ../screenshots/3d01.png Graphic file (type png)
+<use ../screenshots/3d01.png>
+Package pdftex.def Info: ../screenshots/3d01.png  used on input line 379.
+(pdftex.def)             Requested size: 187.19891pt x 110.41222pt.
+
+Overfull \hbox (19.69891pt too wide) in paragraph at lines 379--380
+ [][] 
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 382.
+See the caption package documentation for explanation.
+
+<../screenshots/2d012.png, id=341, 987.69pt x 482.80376pt>
+File: ../screenshots/2d012.png Graphic file (type png)
+<use ../screenshots/2d012.png>
+Package pdftex.def Info: ../screenshots/2d012.png  used on input line 383.
+(pdftex.def)             Requested size: 197.5345pt x 96.55904pt.
+
+Overfull \hbox (30.0345pt too wide) in paragraph at lines 383--384
+ [][] 
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 386.
+See the caption package documentation for explanation.
+
+<../screenshots/3d012.png, id=342, 732.7375pt x 404.51125pt>
+File: ../screenshots/3d012.png Graphic file (type png)
+<use ../screenshots/3d012.png>
+Package pdftex.def Info: ../screenshots/3d012.png  used on input line 386.
+(pdftex.def)             Requested size: 183.18393pt x 101.12756pt.
+
+Overfull \hbox (15.68393pt too wide) in paragraph at lines 386--387
+ [][] 
+ []
+
+
+Overfull \hbox (261.00616pt too wide) in paragraph at lines 391--392
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (57.00409pt too wide) in paragraph at lines 393--394
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (33.00385pt too wide) in paragraph at lines 394--395
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[10 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/2d01.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/3d01.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/2d012.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/../screenshots/3d012.png>]
+Overfull \hbox (63.00415pt too wide) in paragraph at lines 399--400
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (33.00385pt too wide) in paragraph at lines 400--401
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (15.00366pt too wide) in paragraph at lines 423--424
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (393.0075pt too wide) in paragraph at lines 428--429
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (555.00916pt too wide) in paragraph at lines 435--436
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (471.0083pt too wide) in paragraph at lines 438--439
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (93.00446pt too wide) in paragraph at lines 439--440
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[11] [12] (/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.aux)
+Package rerunfilecheck Info: File `Assignment1.out' has not changed.
+(rerunfilecheck)             Checksum: 415692BDBF1FDF4B017A55ED0D9C4EF9;2856.
+ ) 
+Here is how much of TeX's memory you used:
+ 11439 strings out of 478994
+ 175299 string characters out of 5858184
+ 689463 words of memory out of 5000000
+ 28544 multiletter control sequences out of 15000+600000
+ 409499 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,8n,74p,1182b,1828s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on /Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.pdf (12 pages, 2180827 bytes).
+PDF statistics:
+ 523 PDF objects out of 1000 (max. 8388607)
+ 447 compressed objects within 5 object streams
+ 239 named destinations out of 1000 (max. 500000)
+ 353 words of extra memory for PDF output out of 10000 (max. 10000000)
+
