@@ -125,8 +125,58 @@ Finally, the results between the Elastic Net and Random Forest model was examine
 
     \captionof{figure}{Image012 Test}
 		\includegraphics[scale=0.3]{../screenshot/test_scatter_012.png}
-		
 	\end{center}
+
+  \section{Task 2}
+  \hspace*{10mm}For task two, we're training the non-overlapping image01 and overlapping image01 on
+  elastic net two class classifier model. This dataset represents a spanish pear and fuiji apple respectively.
+  A function was created for this model by adding an L1 and L2 penalty function, so an input
+  of trainx, trainy, testx and testy were only needed as input parameters to the function to
+  yield a result. The resulting accuracy score and precission score was calculated manually based on the value shown
+  in the presenting confusion matrix. 
+
+  \hspace*{10mm} In the first elastic model, the data for non-overlapping image01 was used. The result of the model for
+  non-overlapping image01 yielded a training accuracy of 0.69 and testing accuracy of 0.67 as shown in 3.1 Figure 17. A similar 
+  score in both the train and test set indicate that the data was balanced between the train and test set. The confusion matrix in 3.1 
+  Figure 18 indicate that there were 197 predictions of True Positive for class 0 and 175 predictions of True Positive for class 1. These
+  results was then used to manually derived the accuracy and precision. According to the manual derivated result in 3.1 Figure 19, the overall
+  accuracy of the model was 0.72 with a precision of 0.72 for class 0 and 0.72 for class 1. This accuracy score indicate that there was a sufficient
+  number of true postives for class 0 and class 1. However, the number of false postives was still indicative in affecting the accuracy score.
+
+  \subsection{Non-Overlapping Elastic-Net} 
+  \begin{center}
+    \captionof{figure}{Image01 Elastic-Net}
+		\includegraphics[scale=0.5]{../screenshot/Non-Overlapping-Elastic-results/results.png}
+
+    \captionof{figure}{Image01 Elastic-Net Confusion-Matrix}
+		\includegraphics[scale=0.5]{../screenshot/Non-Overlapping-Elastic-results/cf.png}
+
+    \captionof{figure}{Image01 Elastic-Net Derived Score}
+		\includegraphics[scale=0.5]{../screenshot/Non-Overlapping-Elastic-results/calc_score.png}
+  \end{center}
+
+
+  \hspace*{10mm} In the second elastic model, the data for overlapping image01 was used. The result of the model for overlapping
+  image01 resulted in a training accuracy of 0.60 and a testing accuracy of 0.59. This inidcated that the data had a great degree of
+  randomeses and it was balanced in the train-test set. The confusion matrix in 3.2 Figure 21 resulted in 493 prediction of true positives 
+  and 314 of true positives for class 0 and 1 respectively. However, in the derived precision score for class 0 was relatively lower than that
+  of class 1 as shown in 3.2 Figure 22. This could indicate that there was an imbalance in the dataset between class 0 and class 1. Additionally, because of the nature of the
+  image choosen, the black and white image of apple and pear had similar texture and texture. The overlapping nature of the dataset could distort the elastic-net loss function, 
+  when it attempted to classify the two images. This also impacted the overall dervied accuracy score of the model with a value of 0.65 as shown in 
+  3.2 Figure 23. An accuracy score of 0.65 indicate that this model was not sufficient enough for making a prediction. 
+
+  \subsection{Overlapping Elastic-Net} 
+  \begin{center}
+    \captionof{figure}{Image01 Elastic-Net}
+		\includegraphics[scale=0.5]{../screenshot/Overlapping-Elastic-results/results.png}
+
+    \captionof{figure}{Image01 Elastic-Net Confusion-Matrix}
+		\includegraphics[scale=0.5]{../screenshot/Overlapping-Elastic-results/cf.png}
+
+    \captionof{figure}{Image01 Elastic-Net Derived Score}
+		\includegraphics[scale=0.5]{../screenshot/Overlapping-Elastic-results/hand_score.png}
+  \end{center}
+
 \end{multicols*}
 
 		

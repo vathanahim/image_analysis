@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.11)  1 NOV 2021 19:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.11)  2 NOV 2021 20:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -369,7 +369,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 [2]
-<../screenshot/train_non_over_01.png, id=32, 447.6725pt x 346.29375pt>
+<../screenshot/train_non_over_01.png, id=44, 447.6725pt x 346.29375pt>
 File: ../screenshot/train_non_over_01.png Graphic file (type png)
 <use ../screenshot/train_non_over_01.png>
 Package pdftex.def Info: ../screenshot/train_non_over_01.png  used on input line 64.
@@ -380,7 +380,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 66.
 See the caption package documentation for explanation.
 
-<../screenshot/test_non_over_01.png, id=34, 473.77pt x 342.27875pt>
+<../screenshot/test_non_over_01.png, id=46, 473.77pt x 342.27875pt>
 File: ../screenshot/test_non_over_01.png Graphic file (type png)
 <use ../screenshot/test_non_over_01.png>
 Package pdftex.def Info: ../screenshot/test_non_over_01.png  used on input line 67.
@@ -390,7 +390,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 69.
 See the caption package documentation for explanation.
 
-<../screenshot/train_non_over_012.png, id=35, 497.86pt x 339.2675pt>
+<../screenshot/train_non_over_012.png, id=47, 497.86pt x 339.2675pt>
 File: ../screenshot/train_non_over_012.png Graphic file (type png)
 <use ../screenshot/train_non_over_012.png>
 Package pdftex.def Info: ../screenshot/train_non_over_012.png  used on input line 70.
@@ -400,7 +400,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 72.
 See the caption package documentation for explanation.
 
-<../screenshot/test_non_over_012.png, id=36, 448.67625pt x 345.29pt>
+<../screenshot/test_non_over_012.png, id=48, 448.67625pt x 345.29pt>
 File: ../screenshot/test_non_over_012.png Graphic file (type png)
 <use ../screenshot/test_non_over_012.png>
 Package pdftex.def Info: ../screenshot/test_non_over_012.png  used on input line 73.
@@ -410,7 +410,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 75.
 See the caption package documentation for explanation.
 
-<../screenshot/train_over_01.png, id=37, 440.64626pt x 335.2525pt>
+<../screenshot/train_over_01.png, id=49, 440.64626pt x 335.2525pt>
 File: ../screenshot/train_over_01.png Graphic file (type png)
 <use ../screenshot/train_over_01.png>
 Package pdftex.def Info: ../screenshot/train_over_01.png  used on input line 76.
@@ -420,7 +420,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 78.
 See the caption package documentation for explanation.
 
-<../screenshot/test_over_01.png, id=38, 451.6875pt x 342.27875pt>
+<../screenshot/test_over_01.png, id=50, 451.6875pt x 342.27875pt>
 File: ../screenshot/test_over_01.png Graphic file (type png)
 <use ../screenshot/test_over_01.png>
 Package pdftex.def Info: ../screenshot/test_over_01.png  used on input line 79.
@@ -430,7 +430,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 81.
 See the caption package documentation for explanation.
 
-<../screenshot/train_over_012.png, id=39, 459.7175pt x 340.27126pt>
+<../screenshot/train_over_012.png, id=51, 459.7175pt x 340.27126pt>
 File: ../screenshot/train_over_012.png Graphic file (type png)
 <use ../screenshot/train_over_012.png>
 Package pdftex.def Info: ../screenshot/train_over_012.png  used on input line 82.
@@ -440,7 +440,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 84.
 See the caption package documentation for explanation.
 
-<../screenshot/test_over_012.png, id=40, 453.695pt x 339.2675pt>
+<../screenshot/test_over_012.png, id=52, 453.695pt x 339.2675pt>
 File: ../screenshot/test_over_012.png Graphic file (type png)
 <use ../screenshot/test_over_012.png>
 Package pdftex.def Info: ../screenshot/test_over_012.png  used on input line 85.
@@ -451,7 +451,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 105.
 See the caption package documentation for explanation.
 
-<../screenshot/train_scatter_non_over_01.png, id=60, 397.485pt x 284.06125pt>
+<../screenshot/train_scatter_non_over_01.png, id=72, 397.485pt x 284.06125pt>
 File: ../screenshot/train_scatter_non_over_01.png Graphic file (type png)
 <use ../screenshot/train_scatter_non_over_01.png>
 Package pdftex.def Info: ../screenshot/train_scatter_non_over_01.png  used on input line 106.
@@ -461,7 +461,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 108.
 See the caption package documentation for explanation.
 
-<../screenshot/test_scatter_non_over_01.png, id=61, 422.57875pt x 302.12875pt>
+<../screenshot/test_scatter_non_over_01.png, id=73, 422.57875pt x 302.12875pt>
 File: ../screenshot/test_scatter_non_over_01.png Graphic file (type png)
 <use ../screenshot/test_scatter_non_over_01.png>
 Package pdftex.def Info: ../screenshot/test_scatter_non_over_01.png  used on input line 109.
@@ -471,7 +471,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 111.
 See the caption package documentation for explanation.
 
-<../screenshot/train_scatter_nonover_012.png, id=62, 422.57875pt x 277.035pt>
+<../screenshot/train_scatter_nonover_012.png, id=74, 422.57875pt x 277.035pt>
 File: ../screenshot/train_scatter_nonover_012.png Graphic file (type png)
 <use ../screenshot/train_scatter_nonover_012.png>
 Package pdftex.def Info: ../screenshot/train_scatter_nonover_012.png  used on input line 112.
@@ -482,7 +482,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 [4 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/test_over_012.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/train_scatter_non_over_01.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/test_scatter_non_over_01.png>]
-<../screenshot/test_scatter_nonover_012.png, id=72, 403.5075pt x 264.99pt>
+<../screenshot/test_scatter_nonover_012.png, id=84, 403.5075pt x 264.99pt>
 File: ../screenshot/test_scatter_nonover_012.png Graphic file (type png)
 <use ../screenshot/test_scatter_nonover_012.png>
 Package pdftex.def Info: ../screenshot/test_scatter_nonover_012.png  used on input line 115.
@@ -493,7 +493,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 117.
 See the caption package documentation for explanation.
 
-<../screenshot/train_scatter_over_01.png, id=73, 407.5225pt x 286.06876pt>
+<../screenshot/train_scatter_over_01.png, id=85, 407.5225pt x 286.06876pt>
 File: ../screenshot/train_scatter_over_01.png Graphic file (type png)
 <use ../screenshot/train_scatter_over_01.png>
 Package pdftex.def Info: ../screenshot/train_scatter_over_01.png  used on input line 118.
@@ -503,7 +503,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 120.
 See the caption package documentation for explanation.
 
-<../screenshot/test_scatter_01.png, id=74, 402.50375pt x 263.98625pt>
+<../screenshot/test_scatter_01.png, id=86, 402.50375pt x 263.98625pt>
 File: ../screenshot/test_scatter_01.png Graphic file (type png)
 <use ../screenshot/test_scatter_01.png>
 Package pdftex.def Info: ../screenshot/test_scatter_01.png  used on input line 121.
@@ -513,7 +513,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 123.
 See the caption package documentation for explanation.
 
-<../screenshot/train_scatter_012.png, id=75, 399.4925pt x 278.03876pt>
+<../screenshot/train_scatter_012.png, id=87, 399.4925pt x 278.03876pt>
 File: ../screenshot/train_scatter_012.png Graphic file (type png)
 <use ../screenshot/train_scatter_012.png>
 Package pdftex.def Info: ../screenshot/train_scatter_012.png  used on input line 124.
@@ -523,28 +523,104 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 126.
 See the caption package documentation for explanation.
 
-<../screenshot/test_scatter_012.png, id=76, 422.57875pt x 287.0725pt>
+<../screenshot/test_scatter_012.png, id=88, 422.57875pt x 287.0725pt>
 File: ../screenshot/test_scatter_012.png Graphic file (type png)
 <use ../screenshot/test_scatter_012.png>
 Package pdftex.def Info: ../screenshot/test_scatter_012.png  used on input line 127.
 (pdftex.def)             Requested size: 126.7746pt x 86.1224pt.
-[5 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/train_scatter_nonover_012.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/test_scatter_nonover_012.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/train_scatter_over_01.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/test_scatter_01.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/train_scatter_012.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/test_scatter_012.png>] (/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/assignment2.aux)
+[5 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/train_scatter_nonover_012.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/test_scatter_nonover_012.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/train_scatter_over_01.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/test_scatter_01.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/train_scatter_012.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/test_scatter_012.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]\OT1/cmr/bx/n/14.4 Non-Overlapping
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 148.
+See the caption package documentation for explanation.
+
+<../screenshot/Non-Overlapping-Elastic-results/results.png, id=105, 430.60875pt x 44.165pt>
+File: ../screenshot/Non-Overlapping-Elastic-results/results.png Graphic file (type png)
+<use ../screenshot/Non-Overlapping-Elastic-results/results.png>
+Package pdftex.def Info: ../screenshot/Non-Overlapping-Elastic-results/results.png  used on input line 149.
+(pdftex.def)             Requested size: 215.30383pt x 22.08243pt.
+
+Overfull \hbox (25.30383pt too wide) in paragraph at lines 149--150
+ [] 
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 151.
+See the caption package documentation for explanation.
+
+<../screenshot/Non-Overlapping-Elastic-results/cf.png, id=106, 341.275pt x 307.1475pt>
+File: ../screenshot/Non-Overlapping-Elastic-results/cf.png Graphic file (type png)
+<use ../screenshot/Non-Overlapping-Elastic-results/cf.png>
+Package pdftex.def Info: ../screenshot/Non-Overlapping-Elastic-results/cf.png  used on input line 152.
+(pdftex.def)             Requested size: 170.63707pt x 153.57336pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 154.
+See the caption package documentation for explanation.
+
+<../screenshot/Non-Overlapping-Elastic-results/calc_score.png, id=107, 362.35374pt x 73.27374pt>
+File: ../screenshot/Non-Overlapping-Elastic-results/calc_score.png Graphic file (type png)
+<use ../screenshot/Non-Overlapping-Elastic-results/calc_score.png>
+Package pdftex.def Info: ../screenshot/Non-Overlapping-Elastic-results/calc_score.png  used on input line 155.
+(pdftex.def)             Requested size: 181.17642pt x 36.63676pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 170.
+See the caption package documentation for explanation.
+
+[6 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/Non-Overlapping-Elastic-results/results.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/Non-Overlapping-Elastic-results/cf.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/Non-Overlapping-Elastic-results/calc_score.png>]
+<../screenshot/Overlapping-Elastic-results/results.png, id=118, 388.45125pt x 43.16125pt>
+File: ../screenshot/Overlapping-Elastic-results/results.png Graphic file (type png)
+<use ../screenshot/Overlapping-Elastic-results/results.png>
+Package pdftex.def Info: ../screenshot/Overlapping-Elastic-results/results.png  used on input line 171.
+(pdftex.def)             Requested size: 194.22514pt x 21.58057pt.
+
+Overfull \hbox (4.22514pt too wide) in paragraph at lines 171--172
+ [] 
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 173.
+See the caption package documentation for explanation.
+
+<../screenshot/Overlapping-Elastic-results/cf.png, id=119, 355.3275pt x 305.14pt>
+File: ../screenshot/Overlapping-Elastic-results/cf.png Graphic file (type png)
+<use ../screenshot/Overlapping-Elastic-results/cf.png>
+Package pdftex.def Info: ../screenshot/Overlapping-Elastic-results/cf.png  used on input line 174.
+(pdftex.def)             Requested size: 177.6633pt x 152.56961pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 176.
+See the caption package documentation for explanation.
+
+<../screenshot/Overlapping-Elastic-results/hand_score.png, id=120, 355.3275pt x 85.31876pt>
+File: ../screenshot/Overlapping-Elastic-results/hand_score.png Graphic file (type png)
+<use ../screenshot/Overlapping-Elastic-results/hand_score.png>
+Package pdftex.def Info: ../screenshot/Overlapping-Elastic-results/hand_score.png  used on input line 177.
+(pdftex.def)             Requested size: 177.6633pt x 42.65926pt.
+[7 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/Overlapping-Elastic-results/results.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/Overlapping-Elastic-results/cf.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/../screenshot/Overlapping-Elastic-results/hand_score.png>] (/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/assignment2.aux)
 Package rerunfilecheck Info: File `assignment2.out' has not changed.
-(rerunfilecheck)             Checksum: 2D082D466D16A30710B3082E7A18928D;459.
+(rerunfilecheck)             Checksum: 074D17F0E75A5DD49445D2691D9B9F0E;905.
  ) 
 Here is how much of TeX's memory you used:
- 10698 strings out of 478994
- 167580 string characters out of 5858184
- 465844 words of memory out of 5000000
- 28033 multiletter control sequences out of 15000+600000
+ 10748 strings out of 478994
+ 169611 string characters out of 5858184
+ 465847 words of memory out of 5000000
+ 28066 multiletter control sequences out of 15000+600000
  406818 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,6n,74p,344b,676s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on /Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/assignment2.pdf (5 pages, 410334 bytes).
+Output written on /Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment2/Latext/assignment2.pdf (7 pages, 559507 bytes).
 PDF statistics:
- 112 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
- 26 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 156 PDF objects out of 1000 (max. 8388607)
+ 99 compressed objects within 1 object stream
+ 37 named destinations out of 1000 (max. 500000)
+ 167 words of extra memory for PDF output out of 10000 (max. 10000000)
 
