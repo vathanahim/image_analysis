@@ -37,7 +37,7 @@ The random forest model in databricks was then used to compare to the random for
   Two helper functions were used for this task, sliding blocks feature function which converts an image into sliding image blocks given an image object, and 
   label feature function which create feature labels for each image given a list that contains the array of sliding images. The dimension of the gray images were resized to height of 256 and width of 344. The purpose for these choosen dimensions was to keep its aspect ratio. 
   Additionally, the resized height and width must also be divible by eight since this project divided the targeted image into sliding blocks and non-sliding blocks of 8 by 8 height and width. T
-  he feature vector that was constructed from these images created 3400 feature vectors for the sliding block and 1600 feature vectors for the non-sliding block and each feature vector lies a 8 by 8 pixels who’s value lies between 0-255 of the gray image scale. 
+  he feature vector that was constructed from these images created 6800 feature vectors for the sliding block and 3400 feature vectors for the non-sliding block and each feature vector lies a 8 by 8 pixels who’s value lies between 0-255 of the gray image scale. 
   The features of each feature vector was then flatten to 64 features for each respective feature vector. These datasets was exported into cvs files in the data folder.
   The evidence of this dataset can be shown in 2.1 Figure 1. 
 
@@ -188,6 +188,175 @@ The random forest model in databricks was then used to compare to the random for
 		\includegraphics[scale=0.5]{../screenshot/Rf-Overlapping012/calc_result.png}
   \end{center}
 
+  \section{Task 2 (Knowledge Gained)}
+  \hspace*{5mm} The purpose of this task is to explained the knowledge gained through databricks "Explore the Quickstart Tutorial Section".\footnote[1]{https://docs.databricks.com/getting-started/quick-start.html}.
+  Databricks seems to be a cloud-based platform that can run ETL processes for processing and transforming large quantities of data for machine learning models. 
+  Databrick has a network of distributed systems that allows it to handle big quantities of data without any time loss through its system. 
+  These distributed systems are powered by third-party cloud providers such as Google Cloud, Azure Web Services, and Amazon Web Services. 
+  For example in the quick start tutorial, the dataset that was used was stored in a Databricks dataset directory, which used the storage engine of Amazon Web Services. 
+  Instead of storing it locally, this dataset is stored on the cloud that is provided by Amazon Web services as this method of storage can handle millions of terabytes of data in theory. 
+  In the quick start tutorial, the notebook exported the data from a dataset that was stored in an Amazon Web Services storage and loaded through a cloud computing cluster 
+  that is also provided by Amazon Web Services. When these services are integrated, the notebook works as if you’re working on your local machine notebook.
+
+
+  \hspace*{5mm} You can load the dataset, process the dataset to draw insights and analysis as well as train machine learning models. 
+  Additionally, the notebook can be chosen to work with specific instances of a data language. These instances can include pyspark, python, sql and scala. 
+  The integration of multiple data processing languages in a singular cluster of computing resource that is provided by the users chosen cloud service provider can offer a seemly effortless workflow that allows users to work, 
+  integrate, and build machine learning model flows as well as performing extract, load, and transformation processes to a data storage platform that is not dependent on a local computing power. 
+  This will not confine a user's big data project to a single local computer resource and will speed up the processing power of end-to-end machine learning model flows through the use of cloud computing clusters.  
+
+  \hspace*{5mm} This method of processing and storing data can be coined the term “data lake” and “data warehouse” as databases provide a service of cloud data platform that 
+  leverages the cloud service of cloud providers such as Google Cloud, Azure Web Services, and Amazon Web Services. This type of architecture was based on an open source 
+  Apache Spark framework that allows users to query against semi-structured data without having to use the traditional database schema for the purpose of speed and efficiency. 
+  Since cloud storage and cloud computing (clusters) are used, the limited source of on-prem computing resources is no-longer a detriment to working with massive amounts of data. 
+
+  \hspace*{5mm} In order to set up databricks for Task 3, the following steps was done. Databricks was connected to an Amazon Web Services account in order to use their storage system as well as their EC2
+  cloud computing to generate the needed custer of cpu resources. When Amazon Web Services was connected, the cpu cluster was configured. The configured clusters had the following specs 7.3 LTS 
+  (includes Apache Spark 3.0.1, Scala 2.12) as seen in 3.1 Figure 20. The data is then loaded into the DBFS, which is backed by AWS storage as shown in 3.1 Figure 21. 
+
+  \subsection{Task 2 Figures}
+  \begin{center}
+  \captionof{figure}{Configured CPU Cluster}
+	\includegraphics[scale=0.4]{../screenshot/cpu_cluster.png}
+
+  \captionof{figure}{Loaded Data}
+	\includegraphics[scale=0.4]{../screenshot/dataload.png}
+  \end{center}
+
+
+  \section{Task 3}
+  \hspace*{5mm} In Task 3, the random forest multi-class classifier was implemented in Databricks datastributed system with backend support from 
+  the cpu cluster and storage capcacity of Amazon Web Services EC2 and S3. The code that was implemented had charactertistics of the code from assignment2 through the use
+  of random forest classification to classify three choosen images in fuji apple, pear, and watermelon. These images were labeled image0, image1 and image2 respectively. In the data pre-processing
+  step of this task, an analysis of the dataset for non-overlapping image01, overlapping image01, non-overlapping image012, and overlapping image012 was done. It was seen that the number of class label
+  for each image was equally distributed for both the overlapping and non-overlapping set as shown in 4.1 Figure 24 and Figure 25. This indicate that there was no imbalance of classes among the dataset.
+  Subsequently, the distribution of the dataset was analzyed among all the feature space of feature 54 to determine if anything scaling is needed. It can be seen that in the 4.1 boxplots of Figure 23, Figure 25, 
+  Figure 27, and Figure 29, the data among the three classes of overlapping and non-overlapping images as well as the two classes of overlapping and non-overlapping images contain outliers and non-normally distributed data. 
+  From this finding, a scaling of min-max for each respective dataset was used before it was fed into the random forest machine learning model. Finally, since we are training on a large distributed system all features of the 
+  dataset was used since we're not limited by the computation powers of our local machine. 
+
+  \subsection{Task 3 Figures Preprocessing}
+  \begin{center}
+  \captionof{figure}{Non-Overlaping Image01 distribution}
+	\includegraphics[scale=0.4]{../screenshot/Pre-Non-Overlapping/dist01.png}
+
+  \captionof{figure}{Non-Overlaping Image01 boxplot}
+	\includegraphics[scale=0.4]{../screenshot/Pre-Non-Overlapping/box01.png}
+
+  \captionof{figure}{Non-Overlaping Image012 distribution}
+	\includegraphics[scale=0.4]{../screenshot/Pre-Non-Overlapping/dis012.png}
+
+  \captionof{figure}{Non-Overlaping Image012 boxplot}
+	\includegraphics[scale=0.4]{../screenshot/Pre-Non-Overlapping/box012.png}
+
+  \captionof{figure}{Overlaping Image01 distribution}
+	\includegraphics[scale=0.4]{../screenshot/Pre-Overlapping/dist01.png}
+
+  \captionof{figure}{Overlaping Image01 boxplot}
+	\includegraphics[scale=0.4]{../screenshot/Pre-Overlapping/box01.png}
+
+  \captionof{figure}{Overlaping Image012 distribution}
+	\includegraphics[scale=0.4]{../screenshot/Pre-Overlapping/dist012.png}
+
+  \captionof{figure}{Overlaping Image012 boxplot}
+	\includegraphics[scale=0.4]{../screenshot/Pre-Overlapping/box012.png}
+  \end{center}
+
+  \hspace*{5mm} The random forest machine learning model implemented in databricks for non-overlapping image01 provided very good results in terms of numeric
+  accuracy and precision measurements. In 4.2 Figure 30, the final training accuracy was 0.95 and testing accuracy was ~0.92. This suggested that the splitting of training and testing data provided an equally
+  balanced data for the model to use. Additionally, class0 and class1 had a precision rate of 0.96 and 0.89 respectively, which produces very high true-poistives values for the respective classes. 
+  The ROC curve in 4.2 Figure 32 also provided a very high rate of true positive to low false postitive based on the auc value of 0.92. This indicate a very high rate of accurate prediction among 
+  the two classes.
+
+
+
+  \subsection{Task 3 Figures Non-Overlapping Image01}
+  \begin{center}
+  \captionof{figure}{Non-Overlaping Image01 Score}
+	\includegraphics[scale=0.4]{../screenshot/Non-Overlapping/score01.png}
+
+  \captionof{figure}{Non-Overlaping Image01 Confusion Matrix}
+	\includegraphics[scale=0.3]{../screenshot/Non-Overlapping/cf01.png}
+
+  \captionof{figure}{Non-Overlaping Image01 ROC Curve}
+	\includegraphics[scale=0.3]{../screenshot/Non-Overlapping/roc01.png}
+  \end{center}
+
+
+  \hspace*{5mm} In comparision, the random forest machine learning model implemented in databricks for overlapping image01 and overlapping image01 also provided very good results in terms of numeric
+  accuracy and precision measurements. In 4.3 Figure 33, the final training accuracy was 0.97 and testing accuracy was 0.92. This suggested that the splitting of training and testing data provided an equally
+  balanced data for the model to use. Additionally, class0 and class1 had a precision rate of 0.95 and 0.90 respectively, which produces very high true-poistives values for the respective classes. 
+  The ROC curve in 4.3 Figure 35 also provided a very high rate of true positive to low false postitive based on the auc value of 0.92. This indicate a very high rate of accurate prediction among 
+  the two classes. The result of the random forest model for the two class dataset for overlapping and non-overlapping images provided nearly identical results, which indicate that this model can be a 
+  good predictor of a two class fruit dataset.
+
+  \subsection{Task 3 Figures Overlapping Image01}
+  \begin{center}
+  \captionof{figure}{Overlaping Image01 Score}
+	\includegraphics[scale=0.4]{../screenshot/Overlapping/score01.png}
+
+  \captionof{figure}{Overlaping Image01 Confusion Matrix}
+	\includegraphics[scale=0.3]{../screenshot/Overlapping/cf01.png}
+
+  \captionof{figure}{Overlaping Image01 ROC Curve}
+	\includegraphics[scale=0.3]{../screenshot/Overlapping/roc01.png}
+  \end{center}
+
+  \hspace*{5mm} The random forest machine learning model implemented in databricks for non-overlapping image012 provided insufficent results in terms of numeric
+  accuracy and precision measurements. In 4.4 Figure 36, the final training accuracy was 0.93 and testing accuracy was ~0.80. This suggested that the splitting of training and testing data did not provided an equally
+  balanced data for the model to use as indicated by the large differences in training and testing accuracy values. Class1 and class2 had a precision rate of 0.74 and 0.76 respectively, while class 0 had a precision rate
+  of 0.92. This large differences in precision rate between class0 to class1 and class2 indicate that the model was more biased to class0. This can indicate that the split of training-testing set method may have unintentionally 
+  included more dataset from class0 in one of the sets than class1 and class2. The ROC curve in 4.4 Figure 39 and Figure 40 also provided a very low rate of true positive to high false postitive based on the auc value of 0.44 and 0.62
+  for class1 and class2 respectively. In 4.4 Figure 38, the ROC curve for class0 was sufficient with a good rate of true postive to false positive as supported by the auc value of 0.78.  
+  This large differences in the auc values among class0 to class1 and class2 the models bias towards class0 and thus, it may not be a good model for the three class image classfication. 
+
+  \subsection{Task 3 Figures Non-Overlapping Image012}
+  \begin{center}
+  \captionof{figure}{Non-Overlaping Image012 Score}
+	\includegraphics[scale=0.4]{../screenshot/Non-Overlapping/score012.png}
+
+  \captionof{figure}{Non-Overlaping Image012 Confusion Matrix}
+	\includegraphics[scale=0.4]{../screenshot/Non-Overlapping/cf012.png}
+
+  \captionof{figure}{Non-Overlaping Image012 Class 0 ROC Curve}
+	\includegraphics[scale=0.3]{../screenshot/Non-Overlapping/roc_0.png}
+
+  \captionof{figure}{Non-Overlaping Image012 Class 1 ROC Curve}
+	\includegraphics[scale=0.3]{../screenshot/Non-Overlapping/roc_1.png}
+
+  \captionof{figure}{Non-Overlaping Image012 Class 2 ROC Curve}
+	\includegraphics[scale=0.3]{../screenshot/Non-Overlapping/roc_2.png}
+  \end{center}
+ 
+  \hspace*{5mm} In contrast, The random forest machine learning model implemented in databricks for overlapping image012 provided a sufficent results in terms of numeric
+  accuracy and precision measurements. In 4.5 Figure 41, the final training accuracy was 0.95 and testing accuracy was ~0.85. This suggested that the splitting of training and testing data provided a slightly less
+  balanced data for the model to use as indicated by the small differences in training and testing accuracy values. Class0, class1 and class2 had a precision rate of 0.95, 0.80, and 0.85 respectively, the result of this
+  precision rate indicate that the model might had a small bias towards class0, also performed sufficiently when classify class1 and class2. The ROC curve in 4.5 Figure 43 and Figure 45 also provided sufficient rate of true positive to false postitive based on the auc value of 0.78 and 0.70
+  for class0 and class2 respectively. However, in 4.5 Figure 44, the ROC curve for class1 was insufficient as supported by the auc value of 0.58.  
+  This large differences in the auc values among class0 and class2 to class 0 as suggested by the ROC curve may suggests that the model is bias towards class0 and  class2.
+  Nevertheless, its prediction was sufficient enough to classify the three images as supported by the 4.5 Figure 42 confusion matrix as the true positive rate for class 0, class 1 and class 2 was 0.82, 0.90 and 0.86 respectively.  
+
+  \subsection{Task 3 Figures Overlapping Image012}
+  \begin{center}
+  \captionof{figure}{Overlaping Image012 Score}
+	\includegraphics[scale=0.4]{../screenshot/Overlapping/score012.png}
+
+  \captionof{figure}{Overlaping Image012 Confusion Matrix}
+	\includegraphics[scale=0.4]{../screenshot/Overlapping/cf012.png}
+
+  \captionof{figure}{Overlaping Image012 Class 0 ROC Curve}
+	\includegraphics[scale=0.3]{../screenshot/Overlapping/roc_0.png}
+
+  \captionof{figure}{Overlaping Image012 Class 1 ROC Curve}
+	\includegraphics[scale=0.3]{../screenshot/Overlapping/roc_1.png}
+
+  \captionof{figure}{Overlaping Image012 Class 2 ROC Curve}
+	\includegraphics[scale=0.3]{../screenshot/Overlapping/roc_2.png}
+  \end{center}
+  
+  \hspace*{5mm} Overall, the two class model for overlapping and non-overlapping dataset performed significantly better than that of the three class model as it had no bias
+  towards one class versus the other class. However, in the scope of the three class model, the overlapping model performed better than the non-overlapping model as it resulted in less
+  bias towards any of the three classes. It was also able to predict the three classes sufficiently as supported by the recall rates and the true positive rates for each of the classes shown in the 4.5 Figures.  
 
 \end{multicols*}
 
