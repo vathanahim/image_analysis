@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.11)  17 NOV 2021 14:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.11)  19 NOV 2021 11:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -368,7 +368,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 46.
 See the caption package documentation for explanation.
 
-<../screenshot/csvs.png, id=80, 707.64375pt x 280.04625pt>
+<../screenshot/csvs.png, id=92, 707.64375pt x 280.04625pt>
 File: ../screenshot/csvs.png Graphic file (type png)
 <use ../screenshot/csvs.png>
 Package pdftex.def Info: ../screenshot/csvs.png  used on input line 47.
@@ -379,7 +379,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 66.
 See the caption package documentation for explanation.
 
-<../screenshot/Rf-Non-Overlapping01/score.png, id=88, 386.44376pt x 47.17625pt>
+<../screenshot/Rf-Non-Overlapping01/score.png, id=100, 386.44376pt x 47.17625pt>
 File: ../screenshot/Rf-Non-Overlapping01/score.png Graphic file (type png)
 <use ../screenshot/Rf-Non-Overlapping01/score.png>
 Package pdftex.def Info: ../screenshot/Rf-Non-Overlapping01/score.png  used on input line 67.
@@ -399,7 +399,7 @@ Underfull \hbox (badness 5939) in paragraph at lines 69--69
 []\OT1/cmr/m/n/12 Figure 3: |[]Non-Overlapping RF
  []
 
-<../screenshot/Rf-Non-Overlapping01/cf.png, id=89, 350.30875pt x 290.08376pt>
+<../screenshot/Rf-Non-Overlapping01/cf.png, id=101, 350.30875pt x 290.08376pt>
 File: ../screenshot/Rf-Non-Overlapping01/cf.png Graphic file (type png)
 <use ../screenshot/Rf-Non-Overlapping01/cf.png>
 Package pdftex.def Info: ../screenshot/Rf-Non-Overlapping01/cf.png  used on input line 70.
@@ -409,7 +409,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 72.
 See the caption package documentation for explanation.
 
-<../screenshot/Rf-Non-Overlapping012/calc_score.png, id=90, 365.365pt x 96.36pt>
+<../screenshot/Rf-Non-Overlapping012/calc_score.png, id=102, 365.365pt x 96.36pt>
 File: ../screenshot/Rf-Non-Overlapping012/calc_score.png Graphic file (type png)
 <use ../screenshot/Rf-Non-Overlapping012/calc_score.png>
 Package pdftex.def Info: ../screenshot/Rf-Non-Overlapping012/calc_score.png  used on input line 73.
@@ -419,7 +419,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 88.
 See the caption package documentation for explanation.
 
-<../screenshot/Rf-Overlapping01/score.png, id=91, 428.60126pt x 40.15pt>
+<../screenshot/Rf-Overlapping01/score.png, id=103, 428.60126pt x 40.15pt>
 File: ../screenshot/Rf-Overlapping01/score.png Graphic file (type png)
 <use ../screenshot/Rf-Overlapping01/score.png>
 Package pdftex.def Info: ../screenshot/Rf-Overlapping01/score.png  used on input line 89.
@@ -439,7 +439,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--91
 []\OT1/cmr/m/n/12 Figure 6: |[]Over-lapping RF
  []
 
-<../screenshot/Rf-Overlapping01/cf.png, id=92, 345.29pt x 285.065pt>
+<../screenshot/Rf-Overlapping01/cf.png, id=104, 345.29pt x 285.065pt>
 File: ../screenshot/Rf-Overlapping01/cf.png Graphic file (type png)
 <use ../screenshot/Rf-Overlapping01/cf.png>
 Package pdftex.def Info: ../screenshot/Rf-Overlapping01/cf.png  used on input line 92.
@@ -450,7 +450,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 [3 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Rf-Non-Overlapping01/score.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Rf-Non-Overlapping01/cf.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Rf-Non-Overlapping012/calc_score.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Rf-Overlapping01/score.png>]
-<../screenshot/Rf-Overlapping01/calc_score.png, id=105, 354.32375pt x 71.26625pt>
+<../screenshot/Rf-Overlapping01/calc_score.png, id=117, 354.32375pt x 71.26625pt>
 File: ../screenshot/Rf-Overlapping01/calc_score.png Graphic file (type png)
 <use ../screenshot/Rf-Overlapping01/calc_score.png>
 Package pdftex.def Info: ../screenshot/Rf-Overlapping01/calc_score.png  used on input line 95.
@@ -461,7 +461,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 111.
 See the caption package documentation for explanation.
 
-<../screenshot/Non-Overlapping-Elastic-results/results.png, id=106, 430.60875pt x 44.165pt>
+<../screenshot/Non-Overlapping-Elastic-results/results.png, id=118, 430.60875pt x 44.165pt>
 File: ../screenshot/Non-Overlapping-Elastic-results/results.png Graphic file (type png)
 <use ../screenshot/Non-Overlapping-Elastic-results/results.png>
 Package pdftex.def Info: ../screenshot/Non-Overlapping-Elastic-results/results.png  used on input line 112.
@@ -476,7 +476,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 114.
 See the caption package documentation for explanation.
 
-<../screenshot/Non-Overlapping-Elastic-results/cf.png, id=107, 341.275pt x 307.1475pt>
+<../screenshot/Non-Overlapping-Elastic-results/cf.png, id=119, 341.275pt x 307.1475pt>
 File: ../screenshot/Non-Overlapping-Elastic-results/cf.png Graphic file (type png)
 <use ../screenshot/Non-Overlapping-Elastic-results/cf.png>
 Package pdftex.def Info: ../screenshot/Non-Overlapping-Elastic-results/cf.png  used on input line 115.
@@ -486,7 +486,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 117.
 See the caption package documentation for explanation.
 
-<../screenshot/Non-Overlapping-Elastic-results/calc_score.png, id=108, 362.35374pt x 73.27374pt>
+<../screenshot/Non-Overlapping-Elastic-results/calc_score.png, id=120, 362.35374pt x 73.27374pt>
 File: ../screenshot/Non-Overlapping-Elastic-results/calc_score.png Graphic file (type png)
 <use ../screenshot/Non-Overlapping-Elastic-results/calc_score.png>
 Package pdftex.def Info: ../screenshot/Non-Overlapping-Elastic-results/calc_score.png  used on input line 118.
@@ -497,7 +497,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 135.
 See the caption package documentation for explanation.
 
-<../screenshot/Overlapping-Elastic-results/results.png, id=123, 388.45125pt x 43.16125pt>
+<../screenshot/Overlapping-Elastic-results/results.png, id=135, 388.45125pt x 43.16125pt>
 File: ../screenshot/Overlapping-Elastic-results/results.png Graphic file (type png)
 <use ../screenshot/Overlapping-Elastic-results/results.png>
 Package pdftex.def Info: ../screenshot/Overlapping-Elastic-results/results.png  used on input line 136.
@@ -512,7 +512,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 138.
 See the caption package documentation for explanation.
 
-<../screenshot/Overlapping-Elastic-results/cf.png, id=124, 355.3275pt x 305.14pt>
+<../screenshot/Overlapping-Elastic-results/cf.png, id=136, 355.3275pt x 305.14pt>
 File: ../screenshot/Overlapping-Elastic-results/cf.png Graphic file (type png)
 <use ../screenshot/Overlapping-Elastic-results/cf.png>
 Package pdftex.def Info: ../screenshot/Overlapping-Elastic-results/cf.png  used on input line 139.
@@ -522,7 +522,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 141.
 See the caption package documentation for explanation.
 
-<../screenshot/Overlapping-Elastic-results/hand_score.png, id=125, 355.3275pt x 85.31876pt>
+<../screenshot/Overlapping-Elastic-results/hand_score.png, id=137, 355.3275pt x 85.31876pt>
 File: ../screenshot/Overlapping-Elastic-results/hand_score.png Graphic file (type png)
 <use ../screenshot/Overlapping-Elastic-results/hand_score.png>
 Package pdftex.def Info: ../screenshot/Overlapping-Elastic-results/hand_score.png  used on input line 142.
@@ -538,7 +538,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 158.
 See the caption package documentation for explanation.
 
-<../screenshot/Rf-Non-Overlapping012/score.png, id=136, 425.59pt x 44.165pt>
+<../screenshot/Rf-Non-Overlapping012/score.png, id=148, 425.59pt x 44.165pt>
 File: ../screenshot/Rf-Non-Overlapping012/score.png Graphic file (type png)
 <use ../screenshot/Rf-Non-Overlapping012/score.png>
 Package pdftex.def Info: ../screenshot/Rf-Non-Overlapping012/score.png  used on input line 159.
@@ -553,7 +553,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 161.
 See the caption package documentation for explanation.
 
-<../screenshot/Rf-Non-Overlapping012/cf.png, id=137, 332.24126pt x 295.1025pt>
+<../screenshot/Rf-Non-Overlapping012/cf.png, id=149, 332.24126pt x 295.1025pt>
 File: ../screenshot/Rf-Non-Overlapping012/cf.png Graphic file (type png)
 <use ../screenshot/Rf-Non-Overlapping012/cf.png>
 Package pdftex.def Info: ../screenshot/Rf-Non-Overlapping012/cf.png  used on input line 162.
@@ -572,7 +572,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 181.
 See the caption package documentation for explanation.
 
-<../screenshot/Rf-Overlapping012/score.png, id=138, 374.39874pt x 45.16875pt>
+<../screenshot/Rf-Overlapping012/score.png, id=150, 374.39874pt x 45.16875pt>
 File: ../screenshot/Rf-Overlapping012/score.png Graphic file (type png)
 <use ../screenshot/Rf-Overlapping012/score.png>
 Package pdftex.def Info: ../screenshot/Rf-Overlapping012/score.png  used on input line 182.
@@ -582,7 +582,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 184.
 See the caption package documentation for explanation.
 
-<../screenshot/Rf-Overlapping012/cf.png, id=139, 320.19624pt x 283.0575pt>
+<../screenshot/Rf-Overlapping012/cf.png, id=151, 320.19624pt x 283.0575pt>
 File: ../screenshot/Rf-Overlapping012/cf.png Graphic file (type png)
 <use ../screenshot/Rf-Overlapping012/cf.png>
 Package pdftex.def Info: ../screenshot/Rf-Overlapping012/cf.png  used on input line 185.
@@ -593,7 +593,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 [6 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Rf-Non-Overlapping012/score.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Rf-Non-Overlapping012/cf.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Rf-Overlapping012/score.png>]
-<../screenshot/Rf-Overlapping012/calc_result.png, id=152, 354.32375pt x 83.31125pt>
+<../screenshot/Rf-Overlapping012/calc_result.png, id=164, 354.32375pt x 83.31125pt>
 File: ../screenshot/Rf-Overlapping012/calc_result.png Graphic file (type png)
 <use ../screenshot/Rf-Overlapping012/calc_result.png>
 Package pdftex.def Info: ../screenshot/Rf-Overlapping012/calc_result.png  used on input line 188.
@@ -621,7 +621,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 219.
 See the caption package documentation for explanation.
 
-<../screenshot/cpu_cluster.png, id=166, 665.48625pt x 453.695pt>
+<../screenshot/cpu_cluster.png, id=178, 665.48625pt x 453.695pt>
 File: ../screenshot/cpu_cluster.png Graphic file (type png)
 <use ../screenshot/cpu_cluster.png>
 Package pdftex.def Info: ../screenshot/cpu_cluster.png  used on input line 220.
@@ -636,7 +636,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 222.
 See the caption package documentation for explanation.
 
-<../screenshot/dataload.png, id=167, 517.935pt x 256.96pt>
+<../screenshot/dataload.png, id=179, 517.935pt x 256.96pt>
 File: ../screenshot/dataload.png Graphic file (type png)
 <use ../screenshot/dataload.png>
 Package pdftex.def Info: ../screenshot/dataload.png  used on input line 223.
@@ -652,7 +652,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 240.
 See the caption package documentation for explanation.
 
-<../screenshot/Pre-Non-Overlapping/dist01.png, id=176, 458.71375pt x 299.1175pt>
+<../screenshot/Pre-Non-Overlapping/dist01.png, id=189, 458.71375pt x 299.1175pt>
 File: ../screenshot/Pre-Non-Overlapping/dist01.png Graphic file (type png)
 <use ../screenshot/Pre-Non-Overlapping/dist01.png>
 Package pdftex.def Info: ../screenshot/Pre-Non-Overlapping/dist01.png  used on input line 241.
@@ -662,7 +662,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 243.
 See the caption package documentation for explanation.
 
-<../screenshot/Pre-Non-Overlapping/box01.png, id=177, 418.56375pt x 292.09125pt>
+<../screenshot/Pre-Non-Overlapping/box01.png, id=190, 418.56375pt x 292.09125pt>
 File: ../screenshot/Pre-Non-Overlapping/box01.png Graphic file (type png)
 <use ../screenshot/Pre-Non-Overlapping/box01.png>
 Package pdftex.def Info: ../screenshot/Pre-Non-Overlapping/box01.png  used on input line 244.
@@ -672,7 +672,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 246.
 See the caption package documentation for explanation.
 
-<../screenshot/Pre-Non-Overlapping/dis012.png, id=178, 460.72125pt x 278.03876pt>
+<../screenshot/Pre-Non-Overlapping/dis012.png, id=191, 460.72125pt x 278.03876pt>
 File: ../screenshot/Pre-Non-Overlapping/dis012.png Graphic file (type png)
 <use ../screenshot/Pre-Non-Overlapping/dis012.png>
 Package pdftex.def Info: ../screenshot/Pre-Non-Overlapping/dis012.png  used on input line 247.
@@ -683,7 +683,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 [9 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Pre-Non-Overlapping/dist01.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Pre-Non-Overlapping/box01.png>]
-<../screenshot/Pre-Non-Overlapping/box012.png, id=188, 415.5525pt x 278.03876pt>
+<../screenshot/Pre-Non-Overlapping/box012.png, id=200, 415.5525pt x 278.03876pt>
 File: ../screenshot/Pre-Non-Overlapping/box012.png Graphic file (type png)
 <use ../screenshot/Pre-Non-Overlapping/box012.png>
 Package pdftex.def Info: ../screenshot/Pre-Non-Overlapping/box012.png  used on input line 250.
@@ -694,7 +694,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 252.
 See the caption package documentation for explanation.
 
-<../screenshot/Pre-Overlapping/dist01.png, id=189, 422.57875pt x 289.08pt>
+<../screenshot/Pre-Overlapping/dist01.png, id=201, 422.57875pt x 289.08pt>
 File: ../screenshot/Pre-Overlapping/dist01.png Graphic file (type png)
 <use ../screenshot/Pre-Overlapping/dist01.png>
 Package pdftex.def Info: ../screenshot/Pre-Overlapping/dist01.png  used on input line 253.
@@ -704,7 +704,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 255.
 See the caption package documentation for explanation.
 
-<../screenshot/Pre-Overlapping/box01.png, id=190, 426.59375pt x 286.06876pt>
+<../screenshot/Pre-Overlapping/box01.png, id=202, 426.59375pt x 286.06876pt>
 File: ../screenshot/Pre-Overlapping/box01.png Graphic file (type png)
 <use ../screenshot/Pre-Overlapping/box01.png>
 Package pdftex.def Info: ../screenshot/Pre-Overlapping/box01.png  used on input line 256.
@@ -714,7 +714,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 258.
 See the caption package documentation for explanation.
 
-<../screenshot/Pre-Overlapping/dist012.png, id=191, 412.54124pt x 288.07625pt>
+<../screenshot/Pre-Overlapping/dist012.png, id=203, 412.54124pt x 288.07625pt>
 File: ../screenshot/Pre-Overlapping/dist012.png Graphic file (type png)
 <use ../screenshot/Pre-Overlapping/dist012.png>
 Package pdftex.def Info: ../screenshot/Pre-Overlapping/dist012.png  used on input line 259.
@@ -724,7 +724,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 261.
 See the caption package documentation for explanation.
 
-<../screenshot/Pre-Overlapping/box012.png, id=192, 418.56375pt x 285.065pt>
+<../screenshot/Pre-Overlapping/box012.png, id=204, 418.56375pt x 285.065pt>
 File: ../screenshot/Pre-Overlapping/box012.png Graphic file (type png)
 <use ../screenshot/Pre-Overlapping/box012.png>
 Package pdftex.def Info: ../screenshot/Pre-Overlapping/box012.png  used on input line 262.
@@ -740,7 +740,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 275.
 See the caption package documentation for explanation.
 
-<../screenshot/Non-Overlapping/score01.png, id=209, 454.69875pt x 207.77625pt>
+<../screenshot/Non-Overlapping/score01.png, id=221, 454.69875pt x 207.77625pt>
 File: ../screenshot/Non-Overlapping/score01.png Graphic file (type png)
 <use ../screenshot/Non-Overlapping/score01.png>
 Package pdftex.def Info: ../screenshot/Non-Overlapping/score01.png  used on input line 276.
@@ -750,7 +750,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 278.
 See the caption package documentation for explanation.
 
-<../screenshot/Non-Overlapping/cf01.png, id=210, 493.845pt x 464.73625pt>
+<../screenshot/Non-Overlapping/cf01.png, id=222, 493.845pt x 464.73625pt>
 File: ../screenshot/Non-Overlapping/cf01.png Graphic file (type png)
 <use ../screenshot/Non-Overlapping/cf01.png>
 Package pdftex.def Info: ../screenshot/Non-Overlapping/cf01.png  used on input line 279.
@@ -760,7 +760,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 281.
 See the caption package documentation for explanation.
 
-<../screenshot/Non-Overlapping/roc01.png, id=211, 592.2125pt x 465.74pt>
+<../screenshot/Non-Overlapping/roc01.png, id=223, 592.2125pt x 465.74pt>
 File: ../screenshot/Non-Overlapping/roc01.png Graphic file (type png)
 <use ../screenshot/Non-Overlapping/roc01.png>
 Package pdftex.def Info: ../screenshot/Non-Overlapping/roc01.png  used on input line 282.
@@ -771,7 +771,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 295.
 See the caption package documentation for explanation.
 
-<../screenshot/Overlapping/score01.png, id=222, 444.66125pt x 236.885pt>
+<../screenshot/Overlapping/score01.png, id=234, 444.66125pt x 236.885pt>
 File: ../screenshot/Overlapping/score01.png Graphic file (type png)
 <use ../screenshot/Overlapping/score01.png>
 Package pdftex.def Info: ../screenshot/Overlapping/score01.png  used on input line 296.
@@ -781,7 +781,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 298.
 See the caption package documentation for explanation.
 
-<../screenshot/Overlapping/cf01.png, id=223, 541.02126pt x 473.77pt>
+<../screenshot/Overlapping/cf01.png, id=235, 541.02126pt x 473.77pt>
 File: ../screenshot/Overlapping/cf01.png Graphic file (type png)
 <use ../screenshot/Overlapping/cf01.png>
 Package pdftex.def Info: ../screenshot/Overlapping/cf01.png  used on input line 299.
@@ -791,7 +791,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 301.
 See the caption package documentation for explanation.
 
-<../screenshot/Overlapping/roc01.png, id=224, 591.20876pt x 448.67625pt>
+<../screenshot/Overlapping/roc01.png, id=236, 591.20876pt x 448.67625pt>
 File: ../screenshot/Overlapping/roc01.png Graphic file (type png)
 <use ../screenshot/Overlapping/roc01.png>
 Package pdftex.def Info: ../screenshot/Overlapping/roc01.png  used on input line 302.
@@ -811,7 +811,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 315.
 See the caption package documentation for explanation.
 
-<../screenshot/Non-Overlapping/score012.png, id=235, 455.7025pt x 248.93pt>
+<../screenshot/Non-Overlapping/score012.png, id=247, 455.7025pt x 248.93pt>
 File: ../screenshot/Non-Overlapping/score012.png Graphic file (type png)
 <use ../screenshot/Non-Overlapping/score012.png>
 Package pdftex.def Info: ../screenshot/Non-Overlapping/score012.png  used on input line 316.
@@ -821,7 +821,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 318.
 See the caption package documentation for explanation.
 
-<../screenshot/Non-Overlapping/cf012.png, id=236, 513.92pt x 458.71375pt>
+<../screenshot/Non-Overlapping/cf012.png, id=248, 513.92pt x 458.71375pt>
 File: ../screenshot/Non-Overlapping/cf012.png Graphic file (type png)
 <use ../screenshot/Non-Overlapping/cf012.png>
 Package pdftex.def Info: ../screenshot/Non-Overlapping/cf012.png  used on input line 319.
@@ -836,7 +836,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 321.
 See the caption package documentation for explanation.
 
-<../screenshot/Non-Overlapping/roc_0.png, id=237, 609.27625pt x 462.72874pt>
+<../screenshot/Non-Overlapping/roc_0.png, id=249, 609.27625pt x 462.72874pt>
 File: ../screenshot/Non-Overlapping/roc_0.png Graphic file (type png)
 <use ../screenshot/Non-Overlapping/roc_0.png>
 Package pdftex.def Info: ../screenshot/Non-Overlapping/roc_0.png  used on input line 322.
@@ -846,7 +846,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 324.
 See the caption package documentation for explanation.
 
-<../screenshot/Non-Overlapping/roc_1.png, id=238, 613.29124pt x 441.65pt>
+<../screenshot/Non-Overlapping/roc_1.png, id=250, 613.29124pt x 441.65pt>
 File: ../screenshot/Non-Overlapping/roc_1.png Graphic file (type png)
 <use ../screenshot/Non-Overlapping/roc_1.png>
 Package pdftex.def Info: ../screenshot/Non-Overlapping/roc_1.png  used on input line 325.
@@ -857,86 +857,204 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 [13 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Non-Overlapping/score012.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Non-Overlapping/cf012.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Non-Overlapping/roc_0.png>]
-<../screenshot/Non-Overlapping/roc_2.png, id=251, 582.175pt x 457.71pt>
+<../screenshot/Non-Overlapping/roc_2.png, id=263, 582.175pt x 457.71pt>
 File: ../screenshot/Non-Overlapping/roc_2.png Graphic file (type png)
 <use ../screenshot/Non-Overlapping/roc_2.png>
 Package pdftex.def Info: ../screenshot/Non-Overlapping/roc_2.png  used on input line 328.
 (pdftex.def)             Requested size: 174.65384pt x 137.31406pt.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 341.
-See the caption package documentation for explanation.
-
-<../screenshot/Overlapping/score012.png, id=252, 467.7475pt x 248.93pt>
-File: ../screenshot/Overlapping/score012.png Graphic file (type png)
-<use ../screenshot/Overlapping/score012.png>
-Package pdftex.def Info: ../screenshot/Overlapping/score012.png  used on input line 342.
-(pdftex.def)             Requested size: 187.09567pt x 99.57022pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 344.
-See the caption package documentation for explanation.
-
-<../screenshot/Overlapping/cf012.png, id=253, 500.87125pt x 451.6875pt>
-File: ../screenshot/Overlapping/cf012.png Graphic file (type png)
-<use ../screenshot/Overlapping/cf012.png>
-Package pdftex.def Info: ../screenshot/Overlapping/cf012.png  used on input line 345.
-(pdftex.def)             Requested size: 200.34494pt x 180.67178pt.
-
-Overfull \hbox (10.34494pt too wide) in paragraph at lines 345--346
- [][] 
- []
-
+ [14 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Non-Overlapping/roc_1.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Non-Overlapping/roc_2.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 347.
 See the caption package documentation for explanation.
 
-[14 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Non-Overlapping/roc_1.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Non-Overlapping/roc_2.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Overlapping/score012.png>]
-<../screenshot/Overlapping/roc_0.png, id=263, 603.25375pt x 465.74pt>
-File: ../screenshot/Overlapping/roc_0.png Graphic file (type png)
-<use ../screenshot/Overlapping/roc_0.png>
-Package pdftex.def Info: ../screenshot/Overlapping/roc_0.png  used on input line 348.
-(pdftex.def)             Requested size: 180.97751pt x 139.72307pt.
-
+<../screenshot/Overlapping/score012.png, id=271, 467.7475pt x 248.93pt>
+File: ../screenshot/Overlapping/score012.png Graphic file (type png)
+<use ../screenshot/Overlapping/score012.png>
+Package pdftex.def Info: ../screenshot/Overlapping/score012.png  used on input line 348.
+(pdftex.def)             Requested size: 187.09567pt x 99.57022pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 350.
 See the caption package documentation for explanation.
 
-<../screenshot/Overlapping/roc_1.png, id=264, 608.2725pt x 471.7625pt>
-File: ../screenshot/Overlapping/roc_1.png Graphic file (type png)
-<use ../screenshot/Overlapping/roc_1.png>
-Package pdftex.def Info: ../screenshot/Overlapping/roc_1.png  used on input line 351.
-(pdftex.def)             Requested size: 182.48315pt x 141.52983pt.
+<../screenshot/Overlapping/cf012.png, id=272, 500.87125pt x 451.6875pt>
+File: ../screenshot/Overlapping/cf012.png Graphic file (type png)
+<use ../screenshot/Overlapping/cf012.png>
+Package pdftex.def Info: ../screenshot/Overlapping/cf012.png  used on input line 351.
+(pdftex.def)             Requested size: 200.34494pt x 180.67178pt.
+
+Overfull \hbox (10.34494pt too wide) in paragraph at lines 351--352
+ [][] 
+ []
+
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 353.
 See the caption package documentation for explanation.
 
-<../screenshot/Overlapping/roc_2.png, id=265, 623.32875pt x 462.72874pt>
+<../screenshot/Overlapping/roc_0.png, id=273, 603.25375pt x 465.74pt>
+File: ../screenshot/Overlapping/roc_0.png Graphic file (type png)
+<use ../screenshot/Overlapping/roc_0.png>
+Package pdftex.def Info: ../screenshot/Overlapping/roc_0.png  used on input line 354.
+(pdftex.def)             Requested size: 180.97751pt x 139.72307pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 356.
+See the caption package documentation for explanation.
+
+<../screenshot/Overlapping/roc_1.png, id=274, 608.2725pt x 471.7625pt>
+File: ../screenshot/Overlapping/roc_1.png Graphic file (type png)
+<use ../screenshot/Overlapping/roc_1.png>
+Package pdftex.def Info: ../screenshot/Overlapping/roc_1.png  used on input line 357.
+(pdftex.def)             Requested size: 182.48315pt x 141.52983pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 359.
+See the caption package documentation for explanation.
+
+<../screenshot/Overlapping/roc_2.png, id=275, 623.32875pt x 462.72874pt>
 File: ../screenshot/Overlapping/roc_2.png Graphic file (type png)
 <use ../screenshot/Overlapping/roc_2.png>
-Package pdftex.def Info: ../screenshot/Overlapping/roc_2.png  used on input line 354.
+Package pdftex.def Info: ../screenshot/Overlapping/roc_2.png  used on input line 360.
 (pdftex.def)             Requested size: 187.00006pt x 138.81969pt.
-[15 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Overlapping/cf012.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Overlapping/roc_0.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Overlapping/roc_1.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Overlapping/roc_2.png>] (/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/assignment3.aux)
+
+Underfull \hbox (badness 6477) in paragraph at lines 366--370
+[]|  \OT1/cmr/m/n/12 An overview of the re-
+ []
+
+[15 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Overlapping/score012.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Overlapping/cf012.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Overlapping/roc_0.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Overlapping/roc_1.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Overlapping/roc_2.png>]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 374.
+See the caption package documentation for explanation.
+
+File: ../screenshot/Rf-Non-Overlapping01/score.png Graphic file (type png)
+<use ../screenshot/Rf-Non-Overlapping01/score.png>
+Package pdftex.def Info: ../screenshot/Rf-Non-Overlapping01/score.png  used on input line 375.
+(pdftex.def)             Requested size: 154.57475pt x 18.87015pt.
+<../screenshot/Rf-Non-Overlapping01/machine_score.png, id=290, 488.82625pt x 157.58875pt>
+File: ../screenshot/Rf-Non-Overlapping01/machine_score.png Graphic file (type png)
+<use ../screenshot/Rf-Non-Overlapping01/machine_score.png>
+Package pdftex.def Info: ../screenshot/Rf-Non-Overlapping01/machine_score.png  used on input line 376.
+(pdftex.def)             Requested size: 195.52702pt x 63.03436pt.
+
+Overfull \hbox (5.52702pt too wide) in paragraph at lines 375--377
+ [] 
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 378.
+See the caption package documentation for explanation.
+
+File: ../screenshot/Rf-Overlapping01/score.png Graphic file (type png)
+<use ../screenshot/Rf-Overlapping01/score.png>
+Package pdftex.def Info: ../screenshot/Rf-Overlapping01/score.png  used on input line 379.
+(pdftex.def)             Requested size: 171.43745pt x 16.05971pt.
+<../screenshot/Rf-Overlapping01/machine_score.png, id=291, 462.72874pt x 152.57pt>
+File: ../screenshot/Rf-Overlapping01/machine_score.png Graphic file (type png)
+<use ../screenshot/Rf-Overlapping01/machine_score.png>
+Package pdftex.def Info: ../screenshot/Rf-Overlapping01/machine_score.png  used on input line 380.
+(pdftex.def)             Requested size: 185.08821pt x 61.02692pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 382.
+See the caption package documentation for explanation.
+
+File: ../screenshot/Rf-Non-Overlapping012/score.png Graphic file (type png)
+<use ../screenshot/Rf-Non-Overlapping012/score.png>
+Package pdftex.def Info: ../screenshot/Rf-Non-Overlapping012/score.png  used on input line 383.
+(pdftex.def)             Requested size: 170.23297pt x 17.66566pt.
+<../screenshot/Rf-Non-Overlapping012/machine_score.png, id=292, 508.90125pt x 155.58125pt>
+File: ../screenshot/Rf-Non-Overlapping012/machine_score.png Graphic file (type png)
+<use ../screenshot/Rf-Non-Overlapping012/machine_score.png>
+Package pdftex.def Info: ../screenshot/Rf-Non-Overlapping012/machine_score.png  used on input line 384.
+(pdftex.def)             Requested size: 203.55688pt x 62.23138pt.
+
+Overfull \hbox (13.55688pt too wide) in paragraph at lines 383--385
+ [] 
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 386.
+See the caption package documentation for explanation.
+
+File: ../screenshot/Rf-Overlapping012/score.png Graphic file (type png)
+<use ../screenshot/Rf-Overlapping012/score.png>
+Package pdftex.def Info: ../screenshot/Rf-Overlapping012/score.png  used on input line 387.
+(pdftex.def)             Requested size: 149.75684pt x 18.06717pt.
+<../screenshot/Rf-Overlapping012/machine_score.png, id=293, 498.86375pt x 162.6075pt>
+File: ../screenshot/Rf-Overlapping012/machine_score.png Graphic file (type png)
+<use ../screenshot/Rf-Overlapping012/machine_score.png>
+Package pdftex.def Info: ../screenshot/Rf-Overlapping012/machine_score.png  used on input line 388.
+(pdftex.def)             Requested size: 199.54196pt x 65.04184pt.
+
+Overfull \hbox (9.54196pt too wide) in paragraph at lines 387--389
+ [] 
+ []
+
+[16 </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Rf-Non-Overlapping01/machine_score.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Rf-Overlapping01/machine_score.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Rf-Non-Overlapping012/machine_score.png> </Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/../screenshot/Rf-Overlapping012/machine_score.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+[]\OT1/cmr/bx/n/14.4 Task 4 Fig-ures
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 413.
+See the caption package documentation for explanation.
+
+File: ../screenshot/Non-Overlapping/score01.png Graphic file (type png)
+<use ../screenshot/Non-Overlapping/score01.png>
+Package pdftex.def Info: ../screenshot/Non-Overlapping/score01.png  used on input line 414.
+(pdftex.def)             Requested size: 181.87627pt x 83.10901pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 417.
+See the caption package documentation for explanation.
+
+File: ../screenshot/Overlapping/score01.png Graphic file (type png)
+<use ../screenshot/Overlapping/score01.png>
+Package pdftex.def Info: ../screenshot/Overlapping/score01.png  used on input line 418.
+(pdftex.def)             Requested size: 177.86134pt x 94.75232pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 420.
+See the caption package documentation for explanation.
+
+[17]
+File: ../screenshot/Non-Overlapping/score012.png Graphic file (type png)
+<use ../screenshot/Non-Overlapping/score012.png>
+Package pdftex.def Info: ../screenshot/Non-Overlapping/score012.png  used on input line 421.
+(pdftex.def)             Requested size: 182.27776pt x 99.57022pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 423.
+See the caption package documentation for explanation.
+
+File: ../screenshot/Overlapping/score012.png Graphic file (type png)
+<use ../screenshot/Overlapping/score012.png>
+Package pdftex.def Info: ../screenshot/Overlapping/score012.png  used on input line 424.
+(pdftex.def)             Requested size: 187.09567pt x 99.57022pt.
+[18] (/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/assignment3.aux)
 Package rerunfilecheck Info: File `assignment3.out' has not changed.
-(rerunfilecheck)             Checksum: B0EEBF40828738FCFC5E510CAF4C2925;2897.
+(rerunfilecheck)             Checksum: 657415F16A065A9D66EEE600E790190C;3442.
  ) 
 Here is how much of TeX's memory you used:
- 10938 strings out of 478994
- 175478 string characters out of 5858184
- 467854 words of memory out of 5000000
- 28198 multiletter control sequences out of 15000+600000
+ 10976 strings out of 478994
+ 176766 string characters out of 5858184
+ 467857 words of memory out of 5000000
+ 28221 multiletter control sequences out of 15000+600000
  409256 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,8n,74p,413b,656s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on /Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/assignment3.pdf (15 pages, 1086286 bytes).
+Output written on /Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment3/Latex/assignment3.pdf (18 pages, 1175312 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
- 206 compressed objects within 3 object streams
- 79 named destinations out of 1000 (max. 500000)
- 357 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 362 PDF objects out of 1000 (max. 8388607)
+ 237 compressed objects within 3 object streams
+ 93 named destinations out of 1000 (max. 500000)
+ 401 words of extra memory for PDF output out of 10000 (max. 10000000)
 

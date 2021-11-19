@@ -337,6 +337,12 @@ The random forest model in databricks was then used to compare to the random for
   Nevertheless, its prediction was sufficient enough to classify the three images as supported by the 4.5 Figure 42 confusion matrix as the true positive rate for class 0, class 1 and class 2 was 0.82, 0.90 and 0.86 respectively.  
 
   \subsection{Task 3 Figures Overlapping Image012}
+
+
+  \hspace*{5mm} Overall, the two class model for overlapping and non-overlapping dataset performed significantly better than that of the three class model as it had no bias
+  towards one class versus the other class. However, in the scope of the three class model, the overlapping model performed better than the non-overlapping model as it resulted in less
+  bias towards any of the three classes. It was also able to predict the three classes sufficiently as supported by the recall rates and the true positive rates for each of the classes shown in the 4.5 Figures.  
+
   \begin{center}
   \captionof{figure}{Overlaping Image012 Score}
 	\includegraphics[scale=0.4]{../screenshot/Overlapping/score012.png}
@@ -354,9 +360,78 @@ The random forest model in databricks was then used to compare to the random for
 	\includegraphics[scale=0.3]{../screenshot/Overlapping/roc_2.png}
   \end{center}
   
-  \hspace*{5mm} Overall, the two class model for overlapping and non-overlapping dataset performed significantly better than that of the three class model as it had no bias
-  towards one class versus the other class. However, in the scope of the three class model, the overlapping model performed better than the non-overlapping model as it resulted in less
-  bias towards any of the three classes. It was also able to predict the three classes sufficiently as supported by the recall rates and the true positive rates for each of the classes shown in the 4.5 Figures.  
+
+  \section{Task 4}
+
+  \hspace*{5mm} An overview of the results from the local machine and databricks powered by Amazon Web Services can be found in subsection 5.1 and 5.2 figures. There was quit a noticeable difference
+  between the performance speed, when training the random forest model on the local machine in comparison to training in on the databricks platform. When training on the databricks platform, the model took about 
+  ~1.5 seconds to train on a full set of features, whereas in the local machine it took aproximately ~3.5 on just half of the features in the dataset. The computing power and performance speed of databricks 
+  over performed the local machine. 
+
+
+  \subsection{Task 4 Figures Local Machine Score}
+  \begin{center}
+    \captionof{figure}{Non-Overlapping Image01 RF Score}
+		\includegraphics[scale=0.4]{../screenshot/Rf-Non-Overlapping01/score.png}
+    \includegraphics[scale=0.4]{../screenshot/Rf-Non-Overlapping01/machine_score.png}
+
+    \captionof{figure}{Overlapping Image01 RF Score}
+		\includegraphics[scale=0.4]{../screenshot/Rf-Overlapping01/score.png}
+    \includegraphics[scale=0.4]{../screenshot/Rf-Overlapping01/machine_score.png}
+
+    \captionof{figure}{Non-Overlapping Image012 RF Score}
+		\includegraphics[scale=0.4]{../screenshot/Rf-Non-Overlapping012/score.png}
+    \includegraphics[scale=0.4]{../screenshot/Rf-Non-Overlapping012/machine_score.png}
+
+    \captionof{figure}{Overlapping Image012 RF Score}
+		\includegraphics[scale=0.4]{../screenshot/Rf-Overlapping012/score.png}
+    \includegraphics[scale=0.4]{../screenshot/Rf-Overlapping012/machine_score.png}    
+  \end{center}
+
+  \hspace*{5mm} For the comparison of the dervied results of the model, an analysis of their results was done through the scope of the respective model. For the non-overlapping model for image0 and image1, the results
+  derived was similar in both the local machine and databricks. In 5.1 Figure 46, the local model scored a training and testing accuracy of 0.95 and 0.89 and the databricks model scored a testing and training accuracy of
+  0.96 and 0.89 as shown in 5.2 Figure 50. The predicting precision for class 0 and class 1 was also similar for both models as both scored at 0.96 and 0.89. 
+
+  \hspace*{5mm} For the model of overlapping image for image0 and image1, the results were nearly identical as the testing and training accuracy for both models were aproximately 0.96 and 0.95 respectively as seen in 
+  5.1 and 5.2 Figure 47 and Figure 51. The precision rate for class0 and class1 was also identical as both models had a precision of aproximately 0.95 and 0.90 for the respective classes. 
+
+
+  \hspace*{5mm} As for the model for non-overlapping image for image0, image1, and image2. The databricks model performed slightly better than that of the local model as it scored a 0.92 and 0.80 on the training and testing accuracy based on
+  5.2 Figure 52. However, the results were not significantly different enough to warrant a decision in deciding which model was fundamentally better as the local model training and testing accuracy came close with a score of 
+  0.78 and 0.90 as shown in 5.1 Figure 48. The precision score of the databricks model for class0, class1, and class2 was also slightly higher with a score of 0.89, 0.74 and 0.73 respectively. However, this did not warrant 
+  that the justification that one model was better than the other as the differences in scores was only by a few percentage points.
+
+  \hspace*{5mm} Similary the results for overlapping image for image0, image1, and image2, the databricks model also performed slightly better than that of the local model as it scored a 0.95 and 0.86 on the training and testing accuracy based on
+  5.2 Figure 53. However, like the non-overlapping results, it was not significantly different enough to warrant a decision in deciding which model was fundamentally better as the local model training and testing accuracy came close with a score of 
+  0.84 and 0.91 as shown in 5.1 Figure 49. The precision score of the databricks model for class0, class1, and class2 was also slightly higher with a score of 0.95, 0.80 and 0.85 respectively. However, this did not warrant 
+  that the justification that one model was better than the other as the differences in scores was only by a few percentage points.
+
+
+
+  \subsection{Task 4 Figures Databricks Score}
+  \begin{center}
+    \captionof{figure}{Non-Overlapping Image01 RF Score}
+		\includegraphics[scale=0.4]{../screenshot/Non-Overlapping/score01.png}
+  
+
+    \captionof{figure}{Overlapping Image01 RF Score}
+    \includegraphics[scale=0.4]{../screenshot/Overlapping/score01.png}
+
+    \captionof{figure}{Non-Overlapping Image012 RF Score}
+		\includegraphics[scale=0.4]{../screenshot/Non-Overlapping/score012.png}
+
+    \captionof{figure}{Overlapping Image012 RF Score}
+		\includegraphics[scale=0.4]{../screenshot/Overlapping/score012.png}  
+  \end{center}
+
+  \hspace*{5mm} Overall, the model resulted in a similar accuracy and precision scores from both the local machine and databricks. The only noticeable difference was the large difference
+  in precision among the 3 class models. Class 0 had a significantly higher score of precision than that of class 1 and class 2. This inherent problem was consistent in both the local machine and databricks, 
+  and therefore can be pin point to the test-training method as it can create an imbalance set that favored class0 and in turn can cause a bias towards class0 in training the random forest models.
+  In conclusion, in terms of results, there was not a noticeable difference between that of the models from databricks and local machine. 
+  However, in terms of speed and performance, the databricks platform significantly out perform the local models as databricks was able to train the random forest model in an efficient amount of time on a full set of data. 
+  The Databricks distributed system handled large sets of data and complex machine learning model well in comparison to the local machine through its speed and efficiency. 
+
+
 
 \end{multicols*}
 
